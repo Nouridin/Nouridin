@@ -25,13 +25,13 @@ I love collaborating with others and sharing knowledge. Whether you’re a fello
 ## Skills
 
 ### Languages & Frameworks
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) Python
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff) Django
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff) C/C++
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) 
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff) 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff) 
 
 ### Tools & Software
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=ffffff) Blender
-- ![Game Development](https://img.shields.io/badge/Game_Dev-00599C?style=flat&logo=unity&logoColor=ffffff) Game Development
+- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=ffffff) 
+- ![Game Development](https://img.shields.io/badge/Game_Dev-00599C?style=flat&logo=unity&logoColor=ffffff) 
 
 
 ## States

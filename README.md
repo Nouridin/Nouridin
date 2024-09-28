@@ -23,11 +23,16 @@ I love collaborating with others and sharing knowledge. Whether you’re a fello
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## Skills
-- Python
-- Django
-- C/C++
-- Blender
-- Game Development
+
+### Languages & Frameworks
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) Python
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff) Django
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff) C/C++
+
+### Tools & Software
+- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=ffffff) Blender
+- ![Game Development](https://img.shields.io/badge/Game_Dev-00599C?style=flat&logo=unity&logoColor=ffffff) Game Development
+
 
 ## States
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)

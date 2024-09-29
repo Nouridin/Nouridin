@@ -1,6 +1,6 @@
 # Hi there, I'm Nouridin! 👋
 
-Hello there! I’m **Nouridin**, an aspiring software developer with a passion for creating immersive experiences through code and design. 🚀
+Hello there! I’m **Nouridin**, an aspiring software developer with a passion for creating immersive experiences through code and design.
 
 ![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 

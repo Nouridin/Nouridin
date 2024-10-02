@@ -1,4 +1,4 @@
-# Hi there, I'm Nouridin! 👋
+# Hi there, I'm Nouridin! 
 
 Hello there! I’m **Nouridin**, an aspiring software developer with a passion for creating immersive experiences through code and design.
 
